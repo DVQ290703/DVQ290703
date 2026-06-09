@@ -107,4 +107,3 @@ Road Damage Detection using UNet + ResNet34
 ## 📫 Connect With Me
 
 - Email: qdovan03@gmail.com
-- LinkedIn: (add your LinkedIn link here)
