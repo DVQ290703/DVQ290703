@@ -1,55 +1,57 @@
-<h1 align="center">Hi 👋, I'm Đỗ Văn Quyết</h1>
+<div align="center">
 
-<h3 align="center">AI Engineer | Data Engineer | Robotics & AI Student</h3>
+# Hi 👋, I'm Đỗ Văn Quyết
 
-<p align="center">
-Passionate about Artificial Intelligence, Data Engineering and GenAI Applications.
-</p>
+### AI Engineer | Data Engineer | Robotics & AI Student
+
+Building AI Systems, Data Platforms and GenAI Applications.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Robotics & Artificial Intelligence Student
-- 💻 Interested in AI Engineering, Data Engineering and LLM Applications
-- 🤖 Building Agentic AI Systems with LangGraph
-- 📊 Learning Modern Data Stack and Lakehouse Architecture
+- 🤖 Interested in AI Engineering, Data Engineering and LLM Applications
+- 🔍 Building Agentic AI Systems with LangGraph
+- 📊 Learning Modern Data Stack & Lakehouse Architecture
 - 🌱 Currently studying Spark, Kafka, Airflow and MLOps
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
 
 ### AI & Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### LLM & GenAI
+### GenAI & LLM
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-red?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square)
 
 ### Data Engineering
 
-![DuckDB](https://img.shields.io/badge/DuckDB-yellow?style=for-the-badge)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![DuckDB](https://img.shields.io/badge/DuckDB-yellow?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka)
 
 ### Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square)
 
 ---
 
@@ -57,7 +59,7 @@ Passionate about Artificial Intelligence, Data Engineering and GenAI Application
 
 ### 🤖 LinguAI Assistant
 
-Agentic RAG Assistant built with:
+Agentic RAG Assistant powered by:
 
 - LangGraph
 - OpenAI
@@ -82,28 +84,53 @@ End-to-End Data Engineering Project
 
 ### 👁️ Face Recognition System
 
-Deep Learning based Face Recognition
+Deep Learning Face Recognition using:
 
 - ResNet50
 - OpenCV
-- Computer Vision
+- Face Embeddings
+- Real-time Inference
 
 ---
 
 ### 🛣️ Pothole Detection
 
-Road Damage Detection using UNet + ResNet34
+Road Damage Detection using:
+
+- UNet
+- ResNet34
+- Semantic Segmentation
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DVQ290703&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DVQ290703&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVQ290703&layout=compact&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVQ290703&layout=compact&theme=tokyonight)
+---
+
+## 🎯 Current Focus
+
+```text
+AI Engineering
+├── LangGraph
+├── RAG Systems
+├── Agentic AI
+└── LLMOps
+
+Data Engineering
+├── DuckDB
+├── Spark
+├── Kafka
+├── Airflow
+└── Lakehouse
+```
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: qdovan03@gmail.com
+- 📧 Email: qdovan03@gmail.com
